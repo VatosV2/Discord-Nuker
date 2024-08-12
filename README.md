@@ -1,16 +1,1 @@
-## CREDITS
-```
-Developer: vatosv2
-Discord: discord.gg/nexustools
-```
-## FUNCTIONS:
-```
-Delete All channels (very fast)
-Creates 50 channels (very fast)
-Creates Webhook For every channel (very fast)
-Spams with every webhook at the same time (very fast)
-```
-## SKID
-```
-Dont skid.
-```
+# This Is not up to date with my current coding standarts, please dont take this as a example for my coding skills
