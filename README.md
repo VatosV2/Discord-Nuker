@@ -1,1 +1,1 @@
-# This Is not up to date with my current coding standarts, please dont take this as a example for my coding skills
+# This code does not reflect my current coding standards. Please do not consider it an example of my coding skills.
